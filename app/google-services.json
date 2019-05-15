@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "953663871069",
+    "firebase_url": "https://raabta-6749a.firebaseio.com",
+    "project_id": "raabta-6749a",
+    "storage_bucket": "raabta-6749a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953663871069:android:d1bb5f2cf900fbf5",
+        "android_client_info": {
+          "package_name": "com.example.mzk.raabta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953663871069-b0nn3726jamoegi2dbpu84vlscddon0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mzk.raabta",
+            "certificate_hash": "221ef1d027d06a88c3ce4da600784250680f63d1"
+          }
+        },
+        {
+          "client_id": "953663871069-crviinhqrh2bi2l3g6ula7m4or0f4ua0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD66WijsCtgB1_x7OFMkxixNMLuTlUfQs0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953663871069-crviinhqrh2bi2l3g6ula7m4or0f4ua0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

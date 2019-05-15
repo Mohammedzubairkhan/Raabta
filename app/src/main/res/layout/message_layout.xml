@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/message_shape"
+    android:id="@+id/linear"
+    android:padding="5dp"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="MZK"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/colorPrimary"
+        android:id="@+id/name"
+android:layout_marginTop="5dp"
+        />
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textStyle="bold"
+    android:layout_marginLeft="15dp"
+    android:text="Hello fiends!!"
+    android:id="@+id/msg"
+android:layout_marginTop="5dp"
+    />
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="9:50pm"
+    android:id="@+id/time"
+    android:layout_marginLeft="15dp"
+    android:layout_marginTop="5dp"
+    />
+</LinearLayout>
